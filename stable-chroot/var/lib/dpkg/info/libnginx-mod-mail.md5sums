@@ -1,0 +1,5 @@
+1e7dd84b4e15e3b2e49615a97f581d82  usr/lib/nginx/modules/ngx_mail_module.so
+2f03c95344717b9e13e074800f86cf8c  usr/share/doc/libnginx-mod-mail/changelog.Debian.gz
+ec313f76c1cd260b35897ff2101afec5  usr/share/doc/libnginx-mod-mail/changelog.gz
+541f7983ae8e9a3371b3c7a1ee5fac17  usr/share/doc/libnginx-mod-mail/copyright
+341b4fd2f3360ffff9c56b512c25d21a  usr/share/nginx/modules-available/mod-mail.conf
